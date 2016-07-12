@@ -1,3 +1,3 @@
 # Descripcion
 
-![Alt text](screenshot/imagen1 "pantalla principal")
+![Alt text](screenshot/imagen1.png "pantalla principal")
