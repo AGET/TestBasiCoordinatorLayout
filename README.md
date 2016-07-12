@@ -33,3 +33,5 @@ app:layout_anchorGravity="bottom|right|end"
 
 ###Social
 - Twitter [@AldoGamaliel](https://twitter.com/AldoGamaliel)
+
+- Google+ [+Aldo Estrada](https://plus.google.com/u/0/+AldoEstrada1992)
